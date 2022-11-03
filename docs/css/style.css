@@ -5,7 +5,26 @@ ul.head{
 }
 
 h1 ,h2{
-          color: goldenrod;
-          
-          
+          color: #AEAC3A;
+
+          background-color: #F0F0F0;
+
+          text-decoration: underline;
 }
+
+h1{
+          text-align:center
+}
+
+
+
+p{
+          font-style: italic;
+
+          background-color:#FFFFA8 ;
+}
+
+div.valid{
+          text-align: end;
+}
+
