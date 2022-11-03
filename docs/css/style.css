@@ -32,5 +32,34 @@ p.copyright{
 
           background-color: white;
           text-align: end;
+          font-style: normal;
 }
+
+
+ul.ingridents{
+
+        
+list-style :"\2B29";
+
+
+}
+
+
+ul.twoDirection {
+
+       list-style:"\2B26" ;  
+       
+}
+ul.threeDirection{
+          list-style:"\2B26" ; 
+
+
+}
+
+li{
+          padding-left: 1vw;
+          
+          
+}
+
 
