@@ -1,4 +1,11 @@
 
-ul{
-   list-style: none;;    
+
+ul.head{
+          list-style: none;
+}
+
+h1 ,h2{
+          color: goldenrod;
+          
+          
 }
