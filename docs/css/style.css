@@ -62,4 +62,22 @@ li{
           
 }
 
+span.show{display: none;}
+          
+
+span.hoveroverme + span.show {
+          display: block;
+          color: #ee1616;
+}
+
+span.hide{
+          display: none;
+}
+
+span.myDIV:hover + span.hide{
+
+          display: block;
+          color: red;
+}
+
 
