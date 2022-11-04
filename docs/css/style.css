@@ -1,5 +1,7 @@
 
-
+body{
+       background-image: url(../image/silverware.jpg) ;
+}
 ul.head{
           list-style: none;
 }
@@ -10,6 +12,8 @@ h1 ,h2{
           background-color: #F0F0F0;
 
           text-decoration: underline;
+
+          letter-spacing: 0.25em;
 }
 
 h1{
