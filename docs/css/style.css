@@ -14,11 +14,28 @@ h1 ,h2{
           text-decoration: underline;
 
           letter-spacing: 0.25em;
+          
+
+          
 }
 
+
+
+
 h1{
-          text-align:center
+     
+text-align: center;
+      
 }
+
+
+
+h2{
+      display: inline-flex;
+        
+}
+
+
 
 
 
