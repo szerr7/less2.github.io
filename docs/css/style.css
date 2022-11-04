@@ -80,4 +80,10 @@ span.myDIV:hover + span.hide{
           color: red;
 }
 
+span.bold{
+
+       font-weight: bold ;
+      
+}
+
 
